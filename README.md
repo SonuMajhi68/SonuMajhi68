@@ -13,19 +13,7 @@
 
 ## Languages and Tools
 
-<img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/c-plus-plus-logo.png">
-<img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png">
-<img height="25px" width="25px" src="https://img.icons8.com/ios-glyphs/344/html-5.png">
-<img height="25px" width="25px" src="https://img.icons8.com/ios-glyphs/344/css3.png">
-<img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/javascript.png">
-<img height="25px" width="25px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png">
-<img height="25px" width="25px" src="https://n7.nextpng.com/sticker-png/640/466/sticker-png-redux-react-javascript-state-management-github-github-text-web-application-state-nodejs.png">
-<img height="25px" width="25px" src="https://img.icons8.com/ios-filled/452/react-native.png">
-<img height="25px" width="25px" src="https://img.icons8.com/windows/344/node-js.png">
-<img height="25px" width="25px" src="https://e7.pngegg.com/pngimages/480/899/png-clipart-mongodb-inc-computer-icons-mongodb-icons-cdr-angle.png">
-<img height="25px" width="25px" src="https://www.pinclipart.com/picdir/big/182-1822158_debugger-for-electron-next-js-examples-clipart.png">
-<img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/unity.png">
-<img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/git.png">
+<img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/c-plus-plus-logo.png"><img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/c-sharp-logo.png"><img height="25px" width="25px" src="https://img.icons8.com/ios-glyphs/344/html-5.png"><img height="25px" width="25px" src="https://img.icons8.com/ios-glyphs/344/css3.png"><img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/javascript.png"><img height="25px" width="25px" src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png"><img height="25px" width="25px" src="https://n7.nextpng.com/sticker-png/640/466/sticker-png-redux-react-javascript-state-management-github-github-text-web-application-state-nodejs.png"><img height="25px" width="25px" src="https://img.icons8.com/ios-filled/452/react-native.png"><img height="25px" width="25px" src="https://img.icons8.com/windows/344/node-js.png"><img height="25px" width="25px" src="https://e7.pngegg.com/pngimages/480/899/png-clipart-mongodb-inc-computer-icons-mongodb-icons-cdr-angle.png"><img height="25px" width="25px" src="https://www.pinclipart.com/picdir/big/182-1822158_debugger-for-electron-next-js-examples-clipart.png"><img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/unity.png"><img height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/git.png">
 
 <!--
 **SonuMajhi68/SonuMajhi68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
