@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 <!-- socials -->
 
 [twitter]: https://twitter.com/SonuMaj90784773
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/
+[linkedin]: https://linkedin.com/in/
 
 <!-- source -->
 
