@@ -8,7 +8,7 @@
 - 👯I’m looking to collaborate with other content creators
 - 2020 Goals: Contribute Open Source projects
 
-![Sonu's github stats](https://github-readme-stats.vercel.app/api?username=SonuMajhi68&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuMajhi68&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Sonu's github stats](https://github-readme-stats.vercel.app/api?username=SonuMajhi68&count_private=true&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuMajhi68&layout=compact)](https://github.com/SonuMajhi68/github-readme-stats)
 
 ## Languages and Tools
 
