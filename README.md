@@ -10,7 +10,7 @@
 
 ![Sonu's github stats](https://github-readme-stats.vercel.app/api?username=SonuMajhi68&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonuMajhi68&layout=compact)
 
-<br/>
+<br />
 
 ## Languages and Tools
 
@@ -28,7 +28,8 @@
 [<img align="left" height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/unity.png" />][unity]
 [<img align="left" height="25px" width="25px" src="https://img.icons8.com/ios-filled/344/git.png" />][git]
 
-<br/>
+
+<br />
 
 ## Reach Me
 
@@ -36,7 +37,7 @@
 [<img align="left" alt="SonuMajhi68 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SonuMajhi68 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
+<br />
 
 ## Fun Facts⚡
 
